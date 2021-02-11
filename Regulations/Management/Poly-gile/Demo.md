@@ -43,12 +43,3 @@
 
 **
 **![](https://lh4.googleusercontent.com/R7ZtaJVOHX81ewKrvLy9iCn4M-Dz0F2YfurQRIvVl8wEcOsJs1NijAwXVMvwSijwQnUl8dAT6B9P09STctBvW7ht_DFYxziwY2UhHT4Tp_AP2E0O7Pg6ZqfEJS3OUVpBZLskaXNl)**
-
-Полезные ссылки:
-[[Сontact with the team]]
-[[Backlog refinement]]
-[[Team management]]
-[[Team spirit]]
-[[Jira]]
-[[Retro]]
-[[Daily]]
