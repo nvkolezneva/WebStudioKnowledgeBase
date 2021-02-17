@@ -1,0 +1,20 @@
+# Полезные ссылки
+[ПРИЗНАКИ НЕКАЧЕСТВЕННОГО САЙТА ОТ ЯНДЕКСА](https://yandex.ru/support/webmaster/yandex-indexing/webmaster-advice.html)
+[Сервис для проведения тех. аудитов сайтов](https://saitreport.ru/)
+[Сбор семантики в яндексе (не забудьте установить расширение “SEO-анализ от BE1.ru” и отключить адблок, а то капчи замучают](https://wordstat.yandex.ru/)
+[Сервис для работы с семантикой бесплатно](http://www.xn--90abjwpbr.xn--p1ai/)
+[Проверка ИКС](https://be1.ru/yandex-iks/)
+[Проверка частотности](https://be1.ru/wordstat/)
+[Съем позиций](https://be1.ru/position-yandex-google/)
+[Расширение семантического ядра](https://be1.ru/rasshireniye-semanticheskogo-yadra/)
+[Группировка поисковых запросов](https://be1.ru/grupirovka-zaprosov/)
+[Поддомены сайта](https://be1.ru/uznat-poddomeni-saita/)
+[Определить цмс сайта](https://be1.ru/cms/)
+[Скорость загрузки сайта](https://developers.google.com/speed/pagespeed/insights/?hl=ru)
+[Проверка сайтов на адаптивность](https://search.google.com/test/mobile-friendly?hl=ru)
+[Узнать запросы ЦА](https://answerthepublic.com/)
+[Поисковая оптимизация для начинающих в гугле](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=ru)
+[Аналитика](https://a.pr-cy.ru/)
+[Размещение ссылок](https://www.sape.ru/)
+
+

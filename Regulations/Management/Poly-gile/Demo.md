@@ -1,4 +1,4 @@
-**
+# Демо
 
 ### (Добавить описание от К3)
 #### Правила Демо
@@ -41,5 +41,4 @@
 5.  Говорим, что планируем сделать к след. демо
     
 
-**
 **![](https://lh4.googleusercontent.com/R7ZtaJVOHX81ewKrvLy9iCn4M-Dz0F2YfurQRIvVl8wEcOsJs1NijAwXVMvwSijwQnUl8dAT6B9P09STctBvW7ht_DFYxziwY2UhHT4Tp_AP2E0O7Pg6ZqfEJS3OUVpBZLskaXNl)**
