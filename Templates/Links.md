@@ -17,7 +17,7 @@
 ## Менеджмент
 
 [Шаблон ТЗ](https://docs.google.com/document/d/1YVJqfnfJIVvhgharxSa47NFV2efJqlvx/edit)
-[Шаблон для риском](https://drive.google.com/file/d/1Pq_6ZeN4naJLTuNP-6O4Pg7GyL93msSZ/view?usp=sharing)
+[Шаблон для риском](https://drive.google.com/file/d/1DrE-ereaVLeTHPt04pSKKGEjsO3KWDPz/view?usp=sharing)
 [Шаблон матрицы коммуникаций](https://drive.google.com/file/d/1RJ-6zx6X-aQYXJtcTWgZZmiW723_GYKP/view?usp=sharing)
 
 ### Шаблоны писем. Маркетинг
